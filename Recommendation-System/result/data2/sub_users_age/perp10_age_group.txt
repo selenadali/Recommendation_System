@@ -1,0 +1,160 @@
+Cluster 0
+Age group 0: 2.63157894737%
+Age group 1: 21.0526315789%
+Age group 2: 34.2105263158%
+Age group 3: 23.6842105263%
+Age group 4: 5.26315789474%
+Age group 5: 5.26315789474%
+Age group 6: 7.89473684211%
+Cluster 1
+Age group 0: 1.78571428571%
+Age group 1: 23.2142857143%
+Age group 2: 37.5%
+Age group 3: 26.7857142857%
+Age group 4: 1.78571428571%
+Age group 5: 3.57142857143%
+Age group 6: 5.35714285714%
+Cluster 2
+Age group 0: 3.33333333333%
+Age group 1: 30.0%
+Age group 2: 6.66666666667%
+Age group 3: 26.6666666667%
+Age group 4: 13.3333333333%
+Age group 5: 3.33333333333%
+Age group 6: 16.6666666667%
+Cluster 3
+Age group 0: 0.0%
+Age group 1: 5.40540540541%
+Age group 2: 18.9189189189%
+Age group 3: 32.4324324324%
+Age group 4: 18.9189189189%
+Age group 5: 13.5135135135%
+Age group 6: 10.8108108108%
+Cluster 4
+Age group 0: 0.0%
+Age group 1: 20.0%
+Age group 2: 20.0%
+Age group 3: 10.0%
+Age group 4: 40.0%
+Age group 5: 0.0%
+Age group 6: 10.0%
+Cluster 5
+Age group 0: 0.0%
+Age group 1: 15.7894736842%
+Age group 2: 31.5789473684%
+Age group 3: 15.7894736842%
+Age group 4: 10.5263157895%
+Age group 5: 15.7894736842%
+Age group 6: 10.5263157895%
+Cluster 6
+Age group 0: 5.0%
+Age group 1: 25.0%
+Age group 2: 45.0%
+Age group 3: 10.0%
+Age group 4: 10.0%
+Age group 5: 5.0%
+Age group 6: 0.0%
+Cluster 7
+Age group 0: 2.94117647059%
+Age group 1: 29.4117647059%
+Age group 2: 35.2941176471%
+Age group 3: 17.6470588235%
+Age group 4: 8.82352941176%
+Age group 5: 5.88235294118%
+Age group 6: 0.0%
+Cluster 8
+Age group 0: 0.0%
+Age group 1: 29.7872340426%
+Age group 2: 31.914893617%
+Age group 3: 25.5319148936%
+Age group 4: 4.25531914894%
+Age group 5: 6.3829787234%
+Age group 6: 2.12765957447%
+Cluster 9
+Age group 0: 2.77777777778%
+Age group 1: 33.3333333333%
+Age group 2: 16.6666666667%
+Age group 3: 22.2222222222%
+Age group 4: 8.33333333333%
+Age group 5: 13.8888888889%
+Age group 6: 2.77777777778%
+Cluster 10
+Age group 0: 0.0%
+Age group 1: 13.5135135135%
+Age group 2: 35.1351351351%
+Age group 3: 13.5135135135%
+Age group 4: 10.8108108108%
+Age group 5: 16.2162162162%
+Age group 6: 10.8108108108%
+Cluster 11
+Age group 0: 4.0%
+Age group 1: 12.0%
+Age group 2: 32.0%
+Age group 3: 20.0%
+Age group 4: 8.0%
+Age group 5: 8.0%
+Age group 6: 16.0%
+Cluster 12
+Age group 0: 5.55555555556%
+Age group 1: 5.55555555556%
+Age group 2: 44.4444444444%
+Age group 3: 16.6666666667%
+Age group 4: 16.6666666667%
+Age group 5: 5.55555555556%
+Age group 6: 5.55555555556%
+Cluster 13
+Age group 0: 5.71428571429%
+Age group 1: 20.0%
+Age group 2: 37.1428571429%
+Age group 3: 14.2857142857%
+Age group 4: 2.85714285714%
+Age group 5: 11.4285714286%
+Age group 6: 8.57142857143%
+Cluster 14
+Age group 0: 0.0%
+Age group 1: 20.0%
+Age group 2: 42.8571428571%
+Age group 3: 20.0%
+Age group 4: 11.4285714286%
+Age group 5: 5.71428571429%
+Age group 6: 0.0%
+Cluster 15
+Age group 0: 4.16666666667%
+Age group 1: 12.5%
+Age group 2: 50.0%
+Age group 3: 8.33333333333%
+Age group 4: 8.33333333333%
+Age group 5: 8.33333333333%
+Age group 6: 8.33333333333%
+Cluster 16
+Age group 0: 6.89655172414%
+Age group 1: 17.2413793103%
+Age group 2: 51.724137931%
+Age group 3: 6.89655172414%
+Age group 4: 6.89655172414%
+Age group 5: 10.3448275862%
+Age group 6: 0.0%
+Cluster 17
+Age group 0: 3.125%
+Age group 1: 31.25%
+Age group 2: 40.625%
+Age group 3: 6.25%
+Age group 4: 12.5%
+Age group 5: 6.25%
+Age group 6: 0.0%
+Cluster 18
+Age group 0: 0.0%
+Age group 1: 22.2222222222%
+Age group 2: 66.6666666667%
+Age group 3: 0.0%
+Age group 4: 0.0%
+Age group 5: 5.55555555556%
+Age group 6: 5.55555555556%
+Cluster 19
+Age group 0: 20.0%
+Age group 1: 20.0%
+Age group 2: 35.0%
+Age group 3: 5.0%
+Age group 4: 10.0%
+Age group 5: 10.0%
+Age group 6: 0.0%

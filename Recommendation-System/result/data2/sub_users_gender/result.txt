@@ -1,0 +1,60 @@
+Cluster 0
+Category F: 25.0%
+Category M: 75.0%
+Cluster 1
+Category F: 22.8070175439%
+Category M: 77.1929824561%
+Cluster 2
+Category F: 10.6382978723%
+Category M: 89.3617021277%
+Cluster 3
+Category F: 29.6296296296%
+Category M: 70.3703703704%
+Cluster 4
+Category F: 29.0322580645%
+Category M: 70.9677419355%
+Cluster 5
+Category F: 17.9487179487%
+Category M: 82.0512820513%
+Cluster 6
+Category F: 32.4324324324%
+Category M: 67.5675675676%
+Cluster 7
+Category F: 32.4324324324%
+Category M: 67.5675675676%
+Cluster 8
+Category F: 30.0%
+Category M: 70.0%
+Cluster 9
+Category F: 26.3157894737%
+Category M: 73.6842105263%
+Cluster 10
+Category F: 32.0%
+Category M: 68.0%
+Cluster 11
+Category F: 30.303030303%
+Category M: 69.696969697%
+Cluster 12
+Category F: 29.5454545455%
+Category M: 70.4545454545%
+Cluster 13
+Category F: 39.1304347826%
+Category M: 60.8695652174%
+Cluster 14
+Category F: 52.1739130435%
+Category M: 47.8260869565%
+Cluster 15
+Category F: 36.0%
+Category M: 64.0%
+Cluster 16
+Category F: 28.5714285714%
+Category M: 71.4285714286%
+Cluster 17
+Category F: 21.0526315789%
+Category M: 78.9473684211%
+Cluster 18
+Category F: 21.0526315789%
+Category M: 78.9473684211%
+Cluster 19
+Category F: 26.0869565217%
+Category M: 73.9130434783%
